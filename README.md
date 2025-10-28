@@ -25,7 +25,8 @@ Microsoft Software Power BI
 
 <div align="left">
 </div>
-![Supermart-Analysis](https://github.com/user-attachments/assets/c4ce26d7-3f5b-4a10-84f5-7169107590a6)
+![Supermart-Analysis](https://github.com/user-attachments/assets/c4ce26d7-3f5b-4a10-84f5-7169107590a6).
+
 
 ### Sales Overview
 <div align="left">
