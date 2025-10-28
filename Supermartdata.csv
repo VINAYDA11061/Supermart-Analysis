@@ -1,0 +1,13 @@
+Column Name,Description
+Date,Transaction date
+Invoice_ID,Unique bill/invoice number
+Product,Product name
+Category,"Product category (FMCG, Grocery, Personal Care, etc.)"
+Brand,Brand name (regional/national mix)
+Quantity,Units sold
+Unit_Price,Base selling price (?)
+Customer_Type,New or Returning
+Channel,Online / Offline
+Campaign,"Festival or seasonal event (e.g., Ugadi Offer, Diwali Dhamaka)"
+City,Always “Ballari”
+Store_ID,Store branch code (VIN001 for Ballari Main)
